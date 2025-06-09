@@ -1,4 +1,4 @@
-# Assignment Instructions
+# Assignment Instructions - Longest Common Subsequence
 ### Problem:
 
 Write a program that reads in three strings and outputs the longest common subsequence among those three strings.
